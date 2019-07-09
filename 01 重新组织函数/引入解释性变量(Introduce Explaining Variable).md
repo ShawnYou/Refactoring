@@ -5,6 +5,7 @@
 
 ### 2. 关键点
 + 可以使用(Extract Method)来替代(Introduce Explaining Variable),当(Extract Method)难以进行的时候才使用(Introduce Explaining Variable)
++ 
 
 ### 3. 案例
 
